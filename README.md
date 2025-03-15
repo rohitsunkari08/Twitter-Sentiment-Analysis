@@ -1,10 +1,9 @@
 # Twitter Sentiment Analysis Project
-=====================================
 
 This project uses machine learning to analyze the sentiment of tweets, classifying them as either positive or negative. It utilizes Python with libraries such as `sklearn`, `pandas`, and `matplotlib` for data processing and visualization.
 
 ## Project Description
---------------------
+-------------------
 
 The goal of this project is to demonstrate a basic sentiment analysis tool using a Linear Support Vector Machine (SVM) classifier. The model is trained on a dataset of labeled tweets and then used to predict the sentiment of new, unseen tweets.
 
